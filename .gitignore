@@ -1,3 +1,4 @@
 /cypress/config
 /node_modules
-/cypress/videos/login.cy.ts.mp4
+cypress/configusers.ts 
+/cypress/videos/
